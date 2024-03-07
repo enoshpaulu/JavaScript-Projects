@@ -29,6 +29,7 @@ input[type="text"]{
     border-radius: 20px;
     font-size: 24px;
     background-image: url(search.svg);
+    background-size: 40px 50px;
     background-repeat: no-repeat;
     padding: 12px 20px 12px 50px;
 }
